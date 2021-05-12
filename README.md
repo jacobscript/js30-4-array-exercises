@@ -1,1 +1,1 @@
-# js30-4-array-exercises
+# js array exercises: filter, map, sort, reduce
